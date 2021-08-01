@@ -1,7 +1,7 @@
 # Hello, I'm Edmond
 Nice to meet you ~
 
-![image](https://github.com/Edmond-Yang/Edmond-Yang/blob/master/Profile%20Photo.jpg)
+<img href = "./Profile Photo.jpg" height = 100>
 
 * Learning Language :
 
