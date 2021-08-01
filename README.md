@@ -1,7 +1,7 @@
 # Hello, I'm Edmond
 Nice to meet you ~
 
-<img href = "./Profile Photo.jpg" height = 100>
+<img src = "./Profile Photo.jpg" height = 100>
 
 * Learning Language :
 
