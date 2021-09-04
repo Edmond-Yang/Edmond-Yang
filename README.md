@@ -1,7 +1,7 @@
 # Hello, I'm Edmond
 Nice to meet you ~
 
-![](https://i.imgur.com/Gso5E3C.jpg =30%x)
+![image](https://i.imgur.com/Gso5E3C.jpg)
 
 * Learning Language :
 
