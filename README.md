@@ -1,7 +1,7 @@
 # Hello, I'm Edmond
 Nice to meet you ~
 
-[image](https://github.com/Edmond-Yang/Edmond-Yang/blob/master/Profile%20Photo.jpg?raw=true =30%x)
+![](https://imgur.com/Gso5E3C =30%x)
 
 * Learning Language :
 
