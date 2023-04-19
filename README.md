@@ -19,9 +19,9 @@ Nice to meet you ~
 * [換句話說](https://iowapi.nlpnchu.org/) - 英文換句話說網站 (NCHU NLP LAB)
 * [農業文獻新增資料系統網站](http://140.120.182.87:11143/) - 收集資料網站 (NCHU NLP LAB)
 * [BlackJack](https://edmond-yang.github.io/blackjack/game.html) - 網頁小遊戲(21點)
-* [WEB DREAMER](https://github.com/Edmond-Yang/web_project) - 網頁協作平台 <暫未上架>
-* [City Bank](https://github.com/Edmond-Yang/CityBank) - 記帳APP(雙平台) <暫未上架>
-* [Brige Game](https://github.com/Edmond-Yang/Bridge-Game) - Python小遊戲 <未上架>
+* [WEB DREAMER](https://github.com/Edmond-Yang/web_project) - 網頁協作平台 
+* [City Bank](https://github.com/Edmond-Yang/CityBank) - 記帳APP(雙平台) 
+* [Brige Game](https://github.com/Edmond-Yang/Bridge-Game) - Python小遊戲 
 
 
 ## GITHUB USAGE
