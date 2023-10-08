@@ -5,7 +5,7 @@
 
 💕 Love trying new things. 
 
-🕊️ Feel free to contact to me. Email address : [yuenho092590@gmail.com](mailto:yuenho092590@gmail.com)
+🕊️ Feel free to contact to me. Email address : [edmondyang1104@icloud.com](mailto:edmondyang1104@icloud.com)
 
 Nice to meet you ~
 
