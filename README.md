@@ -21,7 +21,7 @@ Nice to meet you ~
 * [BlackJack](https://edmond-yang.github.io/blackjack/game.html) - 網頁小遊戲(21點)
 * [WEB DREAMER](https://github.com/Edmond-Yang/web_project) - 網頁協作平台 
 * [City Bank](https://github.com/Edmond-Yang/CityBank) - 記帳APP(雙平台) 
-* [Brige Game](https://github.com/Edmond-Yang/Bridge-Game) - Python小遊戲
+* [Bridge Game](https://github.com/Edmond-Yang/Bridge-Game) - Python小遊戲
 * [基於長短期記憶模型之自動澆水系統與應用程式](https://github.com/Edmond-Yang/Aiot_Project) - 自動澆水系統（硬體、API）
 * [基於長短期記憶模型之自動澆水系統與應用程式](https://github.com/Edmond-Yang/Plant-Watering-App) - 自動澆水系統（應用程式）
 * [動畫小方塊](https://github.com/Edmond-Yang/Embedded-System) - 嵌入式期末專題 （後端）
